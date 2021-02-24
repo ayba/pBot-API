@@ -1,3 +1,5 @@
+<h1>Supports Python 3!</h1>
+
 First of all from what we need to start - import library!
 
 `import pbot`
