@@ -16,6 +16,6 @@ In argument of this function may be any string variable. It will be your message
 
 Response contains string variable with answer from bot.
 
-A litle example (see in repository example.py):
+A little example (see in repository example.py):
 
 ![kek](https://i.imgur.com/ZlFN7vd.png)
