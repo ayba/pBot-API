@@ -15,3 +15,7 @@ Dialog class contains system functions of library. But firstly let`s look at sen
 In argument of this function may be any string variable. It will be your message to bot!
 
 Response contains string variable with answer from bot.
+
+A litle example (see in repository example.py):
+
+![kek](https://i.imgur.com/ZlFN7vd.png)
